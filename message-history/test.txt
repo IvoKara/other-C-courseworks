@@ -1,0 +1,4 @@
+buffer =  "23.05.2013 20:10:05   imo.skype  DEnislav: Hello"
+
+scanf("%s %s", str1, str2);
+
